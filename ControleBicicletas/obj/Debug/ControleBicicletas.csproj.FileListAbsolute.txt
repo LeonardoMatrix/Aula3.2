@@ -1,0 +1,9 @@
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\bin\Debug\ControleBicicletas.exe.config
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\bin\Debug\ControleBicicletas.exe
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\bin\Debug\ControleBicicletas.pdb
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.Properties.Resources.resources
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.csproj.GenerateResource.Cache
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.exe
+C:\Users\aluno\source\repos\ControleBicicletas\ControleBicicletas\obj\Debug\ControleBicicletas.pdb

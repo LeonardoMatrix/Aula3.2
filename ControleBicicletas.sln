@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{001835AE-01FC-4DB6-B43D-F193E0B25897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleBicicleta", "ControleBicicleta\ControleBicicleta.csproj", "{9F165323-0E0E-4FEF-9E9F-41B05D8447D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001835AE-01FC-4DB6-B43D-F193E0B25897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001835AE-01FC-4DB6-B43D-F193E0B25897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001835AE-01FC-4DB6-B43D-F193E0B25897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001835AE-01FC-4DB6-B43D-F193E0B25897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F165323-0E0E-4FEF-9E9F-41B05D8447D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F165323-0E0E-4FEF-9E9F-41B05D8447D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F165323-0E0E-4FEF-9E9F-41B05D8447D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F165323-0E0E-4FEF-9E9F-41B05D8447D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AD60DE-563A-4552-9A0A-AD2157D1128F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\aluno\source\repos\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.deps.json
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.dll
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\bin\Debug\netstandard1.4\Entidade.pdb
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.AssemblyInfo.cs
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.dll
+C:\Users\aluno\Desktop\ex\ControleBicicletas\Entidade\obj\Debug\netstandard1.4\Entidade.pdb
